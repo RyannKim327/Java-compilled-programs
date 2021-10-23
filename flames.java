@@ -1,3 +1,6 @@
+/*
+This is my own code of flames with my own solution
+*/
 import java.util.Scanner;
 public class flames {
 	public static void main(String[] args){
