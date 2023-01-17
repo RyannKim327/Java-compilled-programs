@@ -1,5 +1,5 @@
 public class functions{
-	public static void(String[] args){
+	public static void main(String[] args){
 		// No Parameter
 		printHi();
 		// ith Parameter

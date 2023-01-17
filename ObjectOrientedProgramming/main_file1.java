@@ -1,6 +1,3 @@
-// import file 1
-import ObjectOrientedProgramming.e_file1;
-
 /*
 * Replit has an error on this spot, here I don't know the reason
 * You may use * as universal or all files inside of that particular folder

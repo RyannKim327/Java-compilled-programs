@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class input{
-	publilc static void main(String[] args){
+	public static void main(String[] args){
 		// Initiate a variable for input
 		// System.in means user input or System will get a data from user
 		Scanner sc = new Scanner(System.in);
