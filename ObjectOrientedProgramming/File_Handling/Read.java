@@ -1,14 +1,13 @@
-package File_Handling;
+// File Handling;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.Scanner;
 
-public class Main {
+public class Read {
 	public static void main(String[] args){
-		String file_path = "C:/Users/PC/Desktop/java/Java-compilled-programs/";
 		try{
-			Scanner sc = new Scanner(new FileInputStream(new File(file_path + "ObjectOrientedProgramming/File_Handling/sample.txt")));
+			Scanner sc = new Scanner(new FileInputStream(new File("sample.txt")));
 			while(sc.hasNext()){
 				System.out.println(sc.nextLine());
 			}
